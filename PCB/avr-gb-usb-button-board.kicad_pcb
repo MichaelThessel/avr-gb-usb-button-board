@@ -3,7 +3,7 @@
   (general
     (links 0)
     (no_connects 0)
-    (area 19.324999 21.124999 100.475001 69.275001)
+    (area 12.799999 18.542 124.100001 75.438001)
     (thickness 1.6)
     (drawings 21)
     (tracks 0)
@@ -26,7 +26,7 @@
     (39 F.Mask user)
     (40 Dwgs.User user)
     (41 Cmts.User user)
-    (42 Eco1.User user)
+    (42 Eco1.User user hide)
     (43 Eco2.User user)
     (44 Edge.Cuts user)
     (45 Margin user)
@@ -87,7 +87,7 @@
       (mirror false)
       (drillshape 1)
       (scaleselection 1)
-      (outputdirectory ""))
+      (outputdirectory C:/Users/thesi/Desktop/))
   )
 
   (net 0 "")
@@ -322,13 +322,13 @@
   (gr_line (start 39.9 69.2) (end 71.7 69.2) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 100.4 21.2) (end 19.4 21.2) (angle 90) (layer Edge.Cuts) (width 0.15))
 
-  (zone (net 1) (net_name GND) (layer F.Cu) (tstamp 572C1F71) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer F.Cu) (tstamp 572C2B29) (hatch edge 0.508)
     (connect_pads (clearance 1))
     (min_thickness 0.5)
     (fill yes (arc_segments 16) (thermal_gap 1) (thermal_bridge_width 1))
     (polygon
       (pts
-        (xy 17.272 18.542) (xy 105.41 18.542) (xy 105.41 75.438) (xy 17.272 75.438) (xy 17.272 19.558)
+        (xy 15.98 17.45) (xy 103.74 17.45) (xy 103.74 70.91) (xy 15.98 70.91) (xy 15.98 19.22)
       )
     )
   )
