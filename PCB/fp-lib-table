@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Game Boy USB Button PCB")(type KiCad)(uri "$(KIPRJMOD)\\lib.pretty")(options "")(descr ""))
+)
