@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name GBFootprints)(type KiCad)(uri "$(KIPRJMOD)\\GBFootprints.pretty")(options "")(descr ""))
+)
