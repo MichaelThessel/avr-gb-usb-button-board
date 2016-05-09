@@ -1,4 +1,4 @@
-update=5/5/2016 7:23:09 PM
+update=5/8/2016 11:26:15 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=GBFootprints.pretty
 [eeschema/libraries]
 LibName1=power
 LibName2=device
